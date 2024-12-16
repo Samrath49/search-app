@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Search",
+  title: "Google",
   description: "Search functionality similar to google.",
 };
 
