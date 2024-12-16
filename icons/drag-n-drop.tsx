@@ -9,8 +9,7 @@ const DragAndDrop = () => {
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <path d="M40.333 13.747H1.583v29.708h38.75V13.747Z" fill="#F1F3F4" />
-      <path d="M40.333 13.747h-23.25v19.375h23.25V13.747Z" fill="#CCC" />
+      <path d="M40.333 13.747H1.583v29.708h38.75V13.747Z" fill="#3c4043" />
       <path
         fillRule="evenodd"
         clipRule="evenodd"
